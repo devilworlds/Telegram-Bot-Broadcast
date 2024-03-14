@@ -26,7 +26,7 @@ To utilize this bot, follow the steps below:
 
     ```bash
     pkg update && pkg install python
-    ```
+    
 4. If you're using Linux, use the following command to install Python:
 
    ```bash
