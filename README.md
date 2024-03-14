@@ -21,7 +21,14 @@ To utilize this bot, follow the steps below:
 
 2. **Install Python on Your System:**
 
-3. If you Windows then download Then [Click here]{https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe}
+3. If you're using Windows, download Python by clicking [here](https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe).
+4. If you're using Termux Use this Command
+
+    ```bash
+      pkg update
+    
+    ```bash
+    pkg install python
 
 How to Broadcast Messages
 To broadcast a message, simply reply to the desired message with /broadcast followed by the message you wish to broadcast.
