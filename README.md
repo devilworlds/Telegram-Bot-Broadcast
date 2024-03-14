@@ -18,3 +18,15 @@ To utilize this bot, follow the steps below:
 
    ```bash
    git clone https://github.com/devilworlds/Broadcast
+
+How to Broadcast Messages
+To broadcast a message, simply reply to the desired message with /broadcast followed by the message you wish to broadcast.
+
+Viewing Statistics
+To view statistics related to your bot, type /stats.
+
+Customization
+Customize the bot's behavior and appearance by modifying the source code to suit your preferences and requirements.
+
+By following these instructions, you can effectively utilize the Broadcast Bot to streamline communication and outreach efforts across various groups and users on Telegram. If you encounter any issues or have suggestions for improvements, feel free to contribute to the repository.
+
