@@ -25,11 +25,7 @@ To utilize this bot, follow the steps below:
   If you're using Termux, use the following commands:
 
     ```bash
-    pkg update
-    ```
-
-    ```bash
-    pkg install python
+    pkg update && pkg install python
     ```
 4. If you're using Linux, use the following command to install Python:
 
