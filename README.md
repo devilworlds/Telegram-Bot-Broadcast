@@ -36,11 +36,11 @@ To utilize this bot, follow the steps below:
      sudo apt update && sudo apt install python3
      ```
 3. **To Star the bot:**
-4. run this command in linux or termux
+- Run this command in linux or termux
      ```bash
      python3 main.py
      ```
-     run this command in Windows
+- Run this command in Windows
      ```bash
      python main.py
      ```
