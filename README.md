@@ -13,7 +13,7 @@ The Broadcast Bot is a Telegram bot designed to facilitate efficient broadcastin
 
 To utilize this bot, follow the steps below:
 
-1. **Fork this Repository:** Clone this repository to your local machine by executing the following command in your terminal:
+1. **Clone this Repository:** Clone this repository to your local machine by executing the following command in your terminal:
 
    ```bash
    git clone https://github.com/devilworlds/Broadcast
