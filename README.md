@@ -20,16 +20,16 @@ To utilize this bot, follow the steps below:
 
 2. **Install Python on Your System:**
 
-   - **Windows:**
+- **Windows:**
      If you're using Windows, download Python by clicking [here](https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe).
 
-   - **Termux (Android):**
+ - **Termux (Android):**
      If you're using Termux, use the following commands to install Python:
      ```bash
      pkg update && pkg install python
      ```
 
-   - **Linux:**
+ - **Linux:**
      If you're using Linux, use the following command to install Python:
      ```bash
      sudo apt update && sudo apt install python3
