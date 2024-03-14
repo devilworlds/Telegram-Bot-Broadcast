@@ -22,7 +22,7 @@ To utilize this bot, follow the steps below:
 2. **Install Python on Your System:**
 
   If you're using Windows, download Python by clicking [here](https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe).
-. If you're using Termux, use the following commands:
+  If you're using Termux, use the following commands:
 
     ```bash
     pkg update
