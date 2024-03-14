@@ -19,6 +19,10 @@ To utilize this bot, follow the steps below:
    ```bash
    git clone https://github.com/devilworlds/Broadcast
 
+2. **Install Python on Your System:**
+
+3. If you Windows then download Then [Click here]{https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe}
+
 How to Broadcast Messages
 To broadcast a message, simply reply to the desired message with /broadcast followed by the message you wish to broadcast.
 
