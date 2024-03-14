@@ -35,7 +35,15 @@ To utilize this bot, follow the steps below:
      ```bash
      sudo apt update && sudo apt install python3
      ```
-
+3. **To Star the bot:**
+4. run this command in linux or termux
+     ```bash
+     python3 main.py
+     ```
+     run this command in Windows
+     ```bash
+     python main.py
+     ```
 How to Broadcast Messages
 To broadcast a message, simply reply to the desired message with /broadcast followed by the message you wish to broadcast.
 
