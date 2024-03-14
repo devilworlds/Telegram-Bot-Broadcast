@@ -55,7 +55,4 @@ To broadcast a message, simply reply to the desired message with `/broadcast` fo
 
 To view statistics related to your bot, type `/stats`.
 
-## Customization
-
-Customize the bot's behavior and appearance by modifying the source code to suit your preferences and requirements.
-
+![Broadcast Bot Logo](broadcast.jpg)
