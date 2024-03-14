@@ -43,6 +43,10 @@ To utilize this bot, follow the steps below:
      ```bash
      python main.py
      ```
+4. **Then Enter the input:**
+
+- After the starting code, enter the input of your bot token and your Telegram account user ID.
+   
 ## How to Broadcast Messages
 
 To broadcast a message, simply reply to the desired message with `/broadcast` followed by the message you wish to broadcast.
